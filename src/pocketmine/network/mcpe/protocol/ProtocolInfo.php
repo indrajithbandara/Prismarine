@@ -39,11 +39,11 @@ interface ProtocolInfo{
 	/**
 	 * Actual Minecraft protocol version
 	 */
-	const CURRENT_PROTOCOL = 141;
+	const CURRENT_PROTOCOL = 150;
 	/**
 	 * Current Minecraft version reported by the server. This is usually the earliest currently supported version.
 	 */
-	const MINECRAFT_VERSION = 'v1.2.5';
+	const MINECRAFT_VERSION = 'v1.2.6';
 	/**
 	 * Version number sent to clients in ping responses.
 	 */
